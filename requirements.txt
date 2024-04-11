@@ -1,1 +1,6 @@
-django-customvueadmin
+Django==4.2.7
+django-filter==23.3
+djangorestframework==3.14.0
+django-customvueadmin==0.1.10
+
+uvicorn==0.24.0
